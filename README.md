@@ -108,11 +108,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/dhruvyadav8930/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
   </a>
-  <a href="https://x.com/dhruvyadav89300" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/src/assets/icons/social/twitter/default.svg"  width="52" height="40" alt="X logo"  />
-  </a>
   <a href="https://medium.com/@dhruv100yadav" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="Medium logo"  />
+  </a>
+  <a href="https://x.com/dhruvyadav89300" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/src/assets/icons/social/twitter/default.svg"  width="52" height="40" alt="X logo"  />
   </a>
 </div>
 
