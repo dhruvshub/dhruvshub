@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">My name is Dhruv Yadav and I'm an Artificial Intelligence & Data Science student, from GSSIPU. I have a deep passion for Mathematics, Machine Learning, Deep Learning, and Physics. My academic journey has equipped me with a strong foundation in these fields, and I continually seek to expand my knowledge and skills through hands-on projects and research.</p>
+<p align="left">I also like to yap about stuff here: <a href="https://medium.com/@dhruvyadav8930">Medium</a>
 
 ###
 
@@ -108,7 +109,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/dhruvyadav8930/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
   </a>
-  <a href="https://medium.com/@dhruv100yadav" target="_blank">
+  <a href="https://medium.com/@dhruvyadav8930" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="Medium logo"  />
   </a>
   <a href="https://x.com/dhruvyadav89300" target="_blank">
