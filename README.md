@@ -129,8 +129,5 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/dhruvyadav89300/count.svg?"  />
-</div>
 
 ###
