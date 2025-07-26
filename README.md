@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">• Programming: C, Python, SQL,  OOPs, Data Structure and Algorithm.<br><br>• Data Science: Data Analysis, Supervised Learning, Unsupervised Learning, Reinforcement Learning, Neural Networks and Deep Learning, Data Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis, Generative AI, Mathematics (Probability, Applied Statistics, Linear Algebra).<br><br>• Libraries and Frameworks: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, Pytorch, Transformers, LangChain, Hugging Face, OpenAI.<br><br>• Web Development: HTML, CSS, Javascript.<br><br>• Tools: Git, Google Colab, Microsoft Office Suite, Vector DBs.</p>
+<p align="left">• Programming: C++, Python, SQL,  OOPs, Data Structure and Algorithm.<br><br>• Data Science: Data Analysis, Supervised Learning, Unsupervised Learning, Reinforcement Learning, Neural Networks and Deep Learning, Data Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis, Generative AI, Mathematics (Probability, Applied Statistics, Linear Algebra).<br><br>• Libraries and Frameworks: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, Pytorch, Transformers, LangChain, Hugging Face, OpenAI.<br><br>• Web Development: HTML, CSS, Javascript.<br><br>• Tools: Git, Google Colab, Microsoft Office Suite, Vector DBs.</p>
 
 ###
 
