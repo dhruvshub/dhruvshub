@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 
 ###
 
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhruvyadav89300.dhruvyadav89300&"  />
+</div>
+
+###
+
 <p align="left">My name is Dhruv Yadav and I'm an Artificial Intelligence & Data Science student, from GSSIPU. I have a deep passion for Mathematics, Machine Learning, Deep Learning, and Physics. My academic journey has equipped me with a strong foundation in these fields, and I continually seek to expand my knowledge and skills through hands-on projects and research.</p>
 <p align="left">I also like to yap about stuff here: <a href="https://medium.com/@dhruvyadav8930">Medium</a>
 
@@ -80,6 +86,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
@@ -97,7 +105,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">• Programming: C++, Python, SQL,  OOPs, Data Structure and Algorithm.<br><br>• Data Science: Data Analysis, Supervised Learning, Unsupervised Learning, Reinforcement Learning, Neural Networks and Deep Learning, Data Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis, Generative AI, Mathematics (Probability, Applied Statistics, Linear Algebra).<br><br>• Libraries and Frameworks: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, Pytorch, Transformers, LangChain, Hugging Face, OpenAI.<br><br>• Web Development: HTML, CSS, Javascript.<br><br>• Tools: Git, Google Colab, Microsoft Office Suite, Vector DBs.</p>
+<p align="left">• Programming: C, C++, Python, SQL,  OOPs, Data Structure, and Algorithm.<br><br>• Data Science: Data Analysis, Supervised Learning, Unsupervised Learning, Reinforcement Learning, Neural Networks and Deep Learning, Data Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis, Generative AI, Mathematics (Probability, Applied Statistics, Linear Algebra).<br><br>• Libraries and Frameworks: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, Pytorch, Transformers, LangChain, Hugging Face, OpenAI.<br><br>• Web Development: HTML, CSS, JavaScript.<br><br>• Tools: Git, Google Colab, Microsoft Office Suite, Vector DBs.</p>
 
 ###
 
