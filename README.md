@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ###
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhruvyadav89300.dhruvyadav89300&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhruvshub.dhruvshub&"  />
 </div>
 
 ###
 
 <p align="left">My name is Dhruv Yadav and I'm an Artificial Intelligence & Data Science student, from GSSIPU. I have a deep passion for Mathematics, Machine Learning, Deep Learning, and Physics. My academic journey has equipped me with a strong foundation in these fields, and I continually seek to expand my knowledge and skills through hands-on projects and research.</p>
-<p align="left">I also like to yap about stuff here: <a href="https://medium.com/@dhruvyadav8930">Medium</a>
+<p align="left">I also like to yap about stuff here: <a href="[dhruvshub](https://medium.com/@dhruvshub)">Medium</a>
 
 ###
 
@@ -117,10 +117,10 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/dhruvyadav8930/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
   </a>
-  <a href="https://medium.com/@dhruvyadav8930" target="_blank">
+  <a href="https://medium.com/@dhruvshub" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="Medium logo"  />
   </a>
-  <a href="https://x.com/dhruvyadav89300" target="_blank">
+  <a href="https://x.com/dhruvshub" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/src/assets/icons/social/twitter/default.svg"  width="52" height="40" alt="X logo"  />
   </a>
 </div>
@@ -128,9 +128,9 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvyadav89300&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvshub&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150"/>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=dhruvyadav89300&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvyadav89300&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvshub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
