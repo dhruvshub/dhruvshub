@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="left">My name is Dhruv Yadav and I'm an Artificial Intelligence & Data Science student, from GSSIPU. I have a deep passion for Mathematics, Machine Learning, Deep Learning, and Physics. My academic journey has equipped me with a strong foundation in these fields, and I continually seek to expand my knowledge and skills through hands-on projects and research.</p>
-<p align="left">I also like to yap about stuff here: <a href="[dhruvshub](https://medium.com/@dhruvshub)">Medium</a>
+<p align="left">I also like to yap about stuff here: <a href="https://medium.com/@dhruvshub">Medium</a>
 
 ###
 
